@@ -62,4 +62,4 @@ _Backend…_
 _Preocupaciones / trade-offs / tech debt_
 
 ## Métricas
-_Que información necesitas para validar antes de lanzar este feature?_
+- Comprobar Web Vitals para lograr comprender si el sitio web carga de forma adecuada y tiene buen rendimiento para los usuarios
