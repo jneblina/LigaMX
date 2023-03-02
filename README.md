@@ -18,8 +18,8 @@ Autores: Neblina Jan y Corona Hugo
 - Métricas
 
 ## Links
-- [Un link](#)
-- [Otro link](#)
+- [GitHub Hugo Corona](#https://github.com/Hugocrown1)
+- [GitHub Jan Neblina](#https://github.com/jneblina)
 
 ## Objetivo
 _Que y porque estamos haciendo esto?_
