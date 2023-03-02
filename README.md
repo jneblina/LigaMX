@@ -29,21 +29,20 @@ Actualmente, el único lugar en donde se pueden consultar estadisticas de la Lig
 ## Goals
 - Goals
 ## Non-Goals
-- Non-Goals
+- Mostrar noticias sobre los jugadores o los equipos.
+- Mostrar el calendario de los partidos.
 
 ## Background
-_Cuál es el contexto de este proyecto?_
-
-_Incluye recursos, como otros design docs si es necesario_
-
-_No escribas acerca de tu diseño o requerimientos aquí_
+Cuando queremos saber sobre los datos y estadisticas de los jugadores y equipos de la liga mx en la pagina de [Liga MX](https://ligamx.net/cancha/tablas/tablaGeneralClasificacion/sp/8934b8c89a62e0) nos invaden de noticias o articulos que muchas veces no nos interesan y nos dificultan llegar a la información que queremos en ese momento. Ademas que al ser un proyecto escolar, queremos aprender a mostrar información cargada en una base de datos en nuestro sitio web.
 
 ## Overview
-_Overview a alto nivel de tu propuesta_
+Necesitamos una API que cargue la información almacenada en una base de datos y la muestre en el sitio web.
 
-_Esta sección debería ser entendible por nuevos miembros de tu equipo que no están relacionados al proyecto_
+Podemos desplegar la información cuando soliciten buscar algun equipo o jugador en especifico por medio de su ID.
 
-_Pon detalles en la siguiente sección_
+Necesitamos los metodos para obtener los datos sobre los partidos jugados, las estadisticas de cada jugador y los clubes.
+
+Nos basamos en la información capturada en la pagina de la Liga MX para obtener dichos datos.
 
 ## Detailed Design
 _Usa diagramas donde veas necesario_
