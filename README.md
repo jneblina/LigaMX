@@ -22,13 +22,9 @@ Autores: Neblina Jan y Corona Hugo
 - [GitHub Jan Neblina](https://github.com/jneblina)
 
 ## Objetivo
-_Que y porque estamos haciendo esto?_
+Un sitio web que contenga estadisticas de los equipos y de los jugadores de la Liga MX.
+Actualmente, el único lugar en donde se pueden consultar estadisticas de la Liga MX esta plagado de informacion innecesaria.
 
-_Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
-_Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
-
-_Añade screenshots / mocks si lo ves necesario_
 
 ## Goals
 - Goals
