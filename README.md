@@ -1,0 +1,2 @@
+# LigaMX
+Proyecto de backend 
