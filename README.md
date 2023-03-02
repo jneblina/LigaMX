@@ -27,8 +27,8 @@ Actualmente, el único lugar en donde se pueden consultar estadisticas de la Lig
 
 
 ## Goals
-- Consultar estadisticas de la Liga MX
-- Implementar un buscador con autocompletar
+- Consultar estadisticas de la Liga MX.
+- Implementar un buscador con autocompletar.
 ## Non-Goals
 - Mostrar noticias sobre los jugadores o los equipos.
 - Mostrar el calendario de los partidos.
@@ -59,7 +59,9 @@ _Frontend…_
 _Backend…_
 
 ## Consideraciones
-_Preocupaciones / trade-offs / tech debt_
+- Debemos tener en cuenta cuantos usuarios pueden acceder y hacer busquedas a la vez.
+- Cuando se autocomplete una busqueda, solo muestre ese resultado.
+- Cuando se busque algo que no se encuentre, que siempre muestre algun resultado para no dejar resultados vacios.
 
 ## Métricas
 - Comprobar Web Vitals para lograr comprender si el sitio web carga de forma adecuada y tiene buen rendimiento para los usuarios
