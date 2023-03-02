@@ -27,7 +27,8 @@ Actualmente, el único lugar en donde se pueden consultar estadisticas de la Lig
 
 
 ## Goals
-- Goals
+- Consultar estadisticas de la Liga MX
+- Implementar un buscador con autocompletar
 ## Non-Goals
 - Mostrar noticias sobre los jugadores o los equipos.
 - Mostrar el calendario de los partidos.
@@ -44,18 +45,6 @@ Necesitamos los metodos para obtener los datos sobre los partidos jugados, las e
 
 Nos basamos en la información capturada en la pagina de la Liga MX para obtener dichos datos.
 
-## Detailed Design
-_Usa diagramas donde veas necesario_
-
-_Herramientas como [Excalidraw](https://excalidraw.com) son buenos recursos para esto_
-
-_Cubre los cambios principales:_
-
- _- Cuales son las nuevas funciones que vas a escribir?_
- _- Porque necesitas nuevos componentes?_
- _- Hay código que puede ser reusable?_
-
-_No elabores minuciosamente la implementación._
 
 ## Solution 1
 ### Frontend
